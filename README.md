@@ -1,5 +1,5 @@
 # media2x Raspberry Pi  als mobiler Access-Point mit nginx Webserver.
-  Der fakedns server läuft unter python3 nicht mehr. Die Portierung verlief zwar problemlos mit 2to3 -w aber im Betrieb stüzt der server immer ab. Den fakedns von  Patryk Hes (https://github.com/pathes/fakedns) könnte man ebenfalls als
+  (depricated!) Der fakedns server läuft unter python3 nicht mehr. Die Portierung verlief zwar problemlos mit 2to3 -w aber im Betrieb stüzt der server immer ab. Den fakedns von  Patryk Hes (https://github.com/pathes/fakedns) könnte man ebenfalls als
   fakedns - server einsetzen. Ich habe mir das Programm zu Lernzwecken geforkt.
 Mein derzeitiges Studieninteresse ist die Programmierung von dns und die Programmierung von Webscrapern mit python. Vielleicht starte ich dazu einen blog.
 
